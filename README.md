@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋😁
 
-Hi my name is Omar Atheer Albader.  👋😁<br>
+Hi my name is Omar Atheer Albader.<br>
 Computer Science student at University of Science and Technology (JUST).  👨‍🎓<br>
 Interested generally in learning every field of IT and especially in FrontEnd Development. 🖥⌨
 
