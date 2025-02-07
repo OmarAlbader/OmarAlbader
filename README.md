@@ -3,7 +3,7 @@
 
 ### Hi there 👋😁
 
-Hi my name is Omar Atheer Albader.<br>
+Hi, I am Omar Atheer Albader.<br>
 Computer Science student at University of Science and Technology (JUST).  👨‍🎓<br>
 Generally interested in learning about every field of IT, especially front-end development. 🖥⌨
 
